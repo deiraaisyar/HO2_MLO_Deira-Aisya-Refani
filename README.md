@@ -2,6 +2,7 @@
 by: Deira Aisya Refani
 
 This project implements a **content-based course recommendation system** using course metadata scraped from edX. It includes data collection, preprocessing, semantic vectorization, similarity computation, and evaluation using standard information retrieval metrics.
+
 ---
 
 ## 📌 Objective
@@ -48,3 +49,4 @@ We use the following metrics:
 - **Recall@K**: How many of the relevant courses are captured in the top-K?
 
 
+Note: Some process were explained in the notebook directly.
